@@ -4,7 +4,7 @@
 /*
  * Deklarujte proměnnou s názvem odpovídající Vašemu jménu. Hodnota bude Vaše jméno.
  * */
-
+$fiser = 'Adam Fišer';
 
 /*
  * Deklaruj integer, float, boolean, string.
