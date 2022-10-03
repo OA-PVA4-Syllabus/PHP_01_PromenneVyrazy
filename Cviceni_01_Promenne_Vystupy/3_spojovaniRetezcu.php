@@ -11,3 +11,12 @@
  * Vyzkoušejte na třech příkladech. 
  * */
 
+
+/*
+ * Definujte proměnou content. Její obsah zobrazte v html značce odstavce.
+ * */
+
+
+/*
+ * Zobrazte uživateli libovolný obrázek. Tag obrázku musí obsahovat url, velikost a popisek. Url obrázku bude v proměnné img.
+ * */
